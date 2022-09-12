@@ -3,6 +3,6 @@
 - Python
 - JavaScript
 - NodeJS
-	```javascript
+```
  ERR! 404 Not Found - GET girlfriend - Not found
-	```
+ ```
